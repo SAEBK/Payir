@@ -1,7 +1,6 @@
 # Payir
 Payment For IPS Community Suite 4.4.10
-
- پس از آپلود مد بر روی روت اصلی مسیر applications و اکسترکت به مسیر زیر  واقع در پنل ادمین بروید :
+فایل را در مسیر روت IPS خود اپلود کرده و اکسترکت کنید
 
 commerce -> payments -> settings -> payment methods 
 
